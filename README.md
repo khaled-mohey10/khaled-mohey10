@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm Khaled Mohey</h1>
-<h3 align="center">Flutter Developer | Cross-platform App Enthusiast 🚀</h3>
+<h1 align="center">👋 Hi, I'm Khaled Mohey</h1>
+<h3 align="center">Flutter Developer | Cross-Platform App Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaled-mohey10&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-mohey10" />
+  <img src="https://komarev.com/ghpvc/?username=khaled-mohey10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 I’m a **Flutter Developer** who loves crafting mobile apps that are fast, beautiful, and functional  
-- 🔥 Always exploring new technologies like Firebase, APIs, animations, and performance optimization  
-- 🎓 Graduated from a Computer Science background  
-- 🌱 I’m currently learning **Riverpod, Clean Architecture**, and advanced state management  
-- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs**  
-- 📫 Reach me at: **khaledmohee7@gmail.com**  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/khaled-mohey-382393324)  
-- 🌐 Visit my GitHub: [github.com/khaled-mohey10](https://github.com/khaled-mohey10)
+- 💼 I'm a **Flutter Developer** who enjoys building fast, beautiful, and functional mobile apps.
+- 🔥 Passionate about working with **Firebase**, APIs, animations, and performance optimization.
+- 🎓 Computer Science Graduate.
+- 🌱 Currently exploring **Riverpod**, **Clean Architecture**, and scalable app structures.
+- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs**.
+- 📫 Reach me: **khaledmohee7@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khaled-mohey-382393324) | [GitHub](https://github.com/khaled-mohey10)
 
 ---
 
-## 🛠️ My Skills
+## 💡 Skills & Tools
 
-### 💻 Programming Languages
+### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -34,7 +33,7 @@
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🛠 Tools & Platforms
+### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -44,31 +43,29 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-mohey10&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaled-mohey10&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaled-mohey10&show_icons=true&theme=radical" alt="github-stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-mohey10&layout=compact&theme=radical" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-mohey10&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌟 Featured Projects (Pinned)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khaled-mohey10&theme=radical&no-frame=true&column=7"/>
-</p>
+> *(Add your top 2-3 public projects manually or via GitHub's "pin" feature.)*  
+Examples:
+- 🛒 Grocery App (Flutter + Firebase)
+- 📅 Event Planner App
+- 📦 Simple API-based Product Viewer
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:khaledmohee7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -78,12 +75,4 @@
 
 ---
 
-## 🐍 Snake Game (Your Contribution Graph)
-
-<p align="center">
-  <img src="https://github.com/khaled-mohey10/khaled-mohey10/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-> 🧠 *"Building great apps isn't magic – it's Flutter + Focus + Firebase!"*
+> 🚀 *"Building great apps isn't magic – it's Flutter + Focus + Firebase!"*
