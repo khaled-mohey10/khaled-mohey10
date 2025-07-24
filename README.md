@@ -60,6 +60,18 @@
 
 ---
 
+## 📘 Latest Projects
+
+- [🛍️ E-commerce App](https://github.com/Khaled10k/E-commerse-app) – Clean architecture, Dio, dark mode, categories.
+- [📰 News App](https://github.com/Khaled10k/news) – Real-time API, categories, error handling.
+- [📅 Evently](https://github.com/Khaled10k/Evently_app) – Events + Google Maps + Firebase.
+- [📚 Bookly](https://github.com/Khaled10k/bookly) – Free books reader with Dio & MVVM.
+- [🕌 Islami](https://github.com/Khaled10k/islami_app) – Quran, Azkar, Hadith & Audio player.
+
+> *Check all my work here → [GitHub Profile](https://github.com/khaled-mohey10)*
+
+---
+
 ## 📲 Let's Connect
 
 <p align="center">
